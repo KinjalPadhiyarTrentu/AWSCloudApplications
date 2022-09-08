@@ -1,6 +1,6 @@
 # AWSCloudApplications
 
-### First_EC2:
+### First EC2:
 
 ### S3 Lambda:
 
